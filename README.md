@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="">
+</p>
+
 ### Hi there 👋
 
 Im **Kush**! Below are a couple interesting things about me.
