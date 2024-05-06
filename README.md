@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kushed3d/kushed3d/blob/main/Kush%20Pfp.jpg">
+  <img src="https://github.com/kushed3d/kushed3d/blob/main/Kushed3d.png">
 </p>
 
 ```markdown
