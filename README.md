@@ -2,7 +2,18 @@
   <img src="https://github.com/kushed3d/kushed3d/blob/main/Kush%20Pfp.jpg">
 </p>
 
-### Hi there 👋
+```markdown
+                                            _   __          _              _  _____     _ 
+                                           | | / /         | |            | ||____ |   | |
+                                           | |/ / _   _ ___| |__   ___  __| |    / / __| |
+                                           |    \| | | / __| '_ \ / _ \/ _` |    \ \/ _` |
+                                           | |\  \ |_| \__ \ | | |  __/ (_| |.___/ / (_| |
+                                           \_| \_/\__,_|___/_| |_|\___|\__,_|\____/ \__,_|
+```                                                
+
+## Soldering | CAD / Modeling | 3D-Printing | Payload Dev
+
+ Hello there 👋
 
 Im **Kush**! Below are a couple interesting things about me.
 
