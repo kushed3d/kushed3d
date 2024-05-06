@@ -23,3 +23,26 @@ Im **Kush**! Below are a couple interesting things about me.
 - 🤔 **I’m looking for help/tips with:** Electrical Engineering
 - 💬 **Ask me about:** CAD and 3D printing
 - 📫 How to reach me: [Email](fantasy.studios5915@gmail.com)
+
+## Platforms and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=apple,discord,github,gmail,instagram,vscode,windows,bots,blender,autocad,replit," />
+  </a>
+</p>
+
+### ⚗️ Projects 
+
+-  💻 **Bad Usb Scripts For Flipper Zero:** [View Here]()
+
+
+### 👍 Interests 
+
+- 🖨 **3D-Printing**
+- ⚙️ **Machinery**
+- ⚡ **Eletrical Engineering**
+- 🛡 **Security**
+
+
+  ---
