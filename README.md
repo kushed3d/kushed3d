@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/account">
+  <img src="https://github.com/kushed3d/kushed3d/blob/main/Kush%20Pfp.jpg">
 </p>
 
 ### Hi there 👋
