@@ -10,7 +10,6 @@
                                            | |\  \ |_| \__ \ | | |  __/ (_| |.___/ / (_| |
                                            \_| \_/\__,_|___/_| |_|\___|\__,_|\____/ \__,_|
 ```                                                
-
 ## Soldering | CAD / Modeling | 3D-Printing | Payload Dev
 
  Hello there 👋
@@ -23,6 +22,8 @@ Im **Kush**! Below are a couple interesting things about me.
 - 🤔 **I’m looking for help/tips with:** Electrical Engineering
 - 💬 **Ask me about:** CAD and 3D printing
 - 📫 How to reach me: [Email](fantasy.studios5915@gmail.com)
+
+     <img align="center" src="https://share.creavite.co/66396fd3a16df05af213e741.gif" width= "468" alt="Kushed3dd">
 
 ## Platforms and Tools
 
