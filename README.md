@@ -23,7 +23,9 @@ Im **Kush**! Below are a couple interesting things about me.
 - 💬 **Ask me about:** CAD and 3D printing
 - 📫 How to reach me: [Email](fantasy.studios5915@gmail.com)
 
-     <img src="https://share.creavite.co/66396fd3a16df05af213e741.gif" width= "468" alt="Kushed3dd" class="center">
+<div style="text-align: center;">
+     <img src="https://share.creavite.co/66396fd3a16df05af213e741.gif" width= "468" alt="Kushed3dd">
+</div>
 
 ## Platforms and Tools
 
