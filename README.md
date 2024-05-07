@@ -2,6 +2,12 @@
   <img src="https://github.com/kushed3d/kushed3d/blob/main/Kushed3d.png">
 </p>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/kushed3d/count.svg">
+</p>
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
 ```markdown
                                             _   __          _              _  _____     _ 
                                            | | / /         | |            | ||____ |   | |
@@ -9,7 +15,10 @@
                                            |    \| | | / __| '_ \ / _ \/ _` |    \ \/ _` |
                                            | |\  \ |_| \__ \ | | |  __/ (_| |.___/ / (_| |
                                            \_| \_/\__,_|___/_| |_|\___|\__,_|\____/ \__,_|
-```                                                
+```
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+
 ## Soldering | CAD / Modeling | 3D-Printing | Payload Dev
 
  Hello there 👋
