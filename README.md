@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 </p>
 
 ## Soldering | CAD / Modeling | 3D-Printing | Payload Dev
