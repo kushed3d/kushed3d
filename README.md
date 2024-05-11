@@ -8,16 +8,10 @@
 
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
 
-```markdown
-                                            _   __          _              _  _____     _ 
-                                           | | / /         | |            | ||____ |   | |
-                                           | |/ / _   _ ___| |__   ___  __| |    / / __| |
-                                           |    \| | | / __| '_ \ / _ \/ _` |    \ \/ _` |
-                                           | |\  \ |_| \__ \ | | |  __/ (_| |.___/ / (_| |
-                                           \_| \_/\__,_|___/_| |_|\___|\__,_|\____/ \__,_|
-```
 
-<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
+</p>
 
 ## Soldering | CAD / Modeling | 3D-Printing | Payload Dev
 
