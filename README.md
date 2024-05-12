@@ -19,11 +19,11 @@
 
 Im **Kush**! Below are a couple interesting things about me.
 
-- 🔭 **Currently working on:** 3D Modelling / CAD `(computer aided design)` 
-- 🌱 **Currently learning:** Electrical Engineering
+- 💻 **Currently working on:** 3D Modelling / CAD `(computer aided design)` 
+- 📚 **Currently learning:** Electrical Engineering
 - 🔗 **My Website:** [Kushed3D](https://kushed3d.com/)
 - 🤔 **I’m looking for help/tips with:** Electrical Engineering
-- 💬 **Ask me about:** CAD and 3D printing
+- ❔ **Ask me about:** CAD and 3D printing
 - 📫 How to reach me: [Email](fantasy.studios5915@gmail.com)
 
 <p align="center">
@@ -40,7 +40,7 @@ Im **Kush**! Below are a couple interesting things about me.
 
 ### ⚗️ Projects 
 
--  💻 **Bad Usb Scripts For Flipper Zero:** [View Here](https://github.com/kushed3d/Bad-USB-Flipper-Zero)
+-  ⌨️ **Bad Usb Scripts For Flipper Zero:** [View Here](https://github.com/kushed3d/Bad-USB-Flipper-Zero)
 
 
 ### 👍 Interests 
