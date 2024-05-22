@@ -53,5 +53,5 @@ Im **Kush**! Below are a couple interesting things about me.
 
     ---
 
-![kushed3d' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushed3d&show_icons=true&theme=algolia)
+![kushed3d' GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushed3d&show_icons=true&theme=algolia) <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kushed3d&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
