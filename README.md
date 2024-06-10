@@ -27,7 +27,7 @@ Im **Kush**! Below are a couple interesting things about me.
 - 📫 How to reach me: [Email](fantasy.studios5915@gmail.com)
 
 <p align="center">
-     <img src="https://share.creavite.co/66396fd3a16df05af213e741.gif" width= "468" alt="Kushed3dd">
+     <img src="https://share.creavite.co/66676ceddb2d31826fb8f38e.gif" width= "468" alt="Kushed3dd">
 </p>
 
 ## Platforms and Tools
