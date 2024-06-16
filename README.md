@@ -58,3 +58,7 @@ Im **Kush**! Below are a couple interesting things about me.
 </p>
 
 ---
+
+<p align="center">
+ <img width="1000" src="utils/github-snake.svg" alt="snake"/>
+</p>
