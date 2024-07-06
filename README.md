@@ -34,7 +34,7 @@ Im **Kush**! Below are a couple interesting things about me.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,discord,github,gmail,instagram,vscode,windows,bots,blender,autocad,replit," />
+    <img src="https://skillicons.dev/icons?i=apple,discord,github,gmail,instagram,vscode,windows,bots,blender,html,replit," />
   </a>
 </p>
 
