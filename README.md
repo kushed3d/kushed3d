@@ -19,12 +19,12 @@
 
 Im **Kush**! Below are a couple interesting things about me.
 
-- 💻 **Currently working on:** 3D Modelling / CAD `(computer aided design)` 
-- 📚 **Currently learning:** Cybersec
+- 💻 **Currently working on:** Models / CAD `(computer aided design)` 
+- 📚 **Currently learning:** Cybersecurity
 - 🔗 **Socials:** [Click Here](https://feds.lol/kushed)
 - 🤔 **I’m looking for help/tips with:** Electrical Engineering
-- ❔ **Ask me about:** CAD and 3D printing
-- 📫 How to reach me: [Email](fantasy.studios5915@gmail.com)
+-  ❔ **Ask me about:** CAD and 3D printing
+- 🐧 **kush@linux:~$** [whoami](https://www.google.com/search?q=intext%3Akushed3d)
 
 <p align="center">
      <img src="https://share.creavite.co/66676ceddb2d31826fb8f38e.gif" width= "468" alt="Kushed3dd">
@@ -34,7 +34,7 @@ Im **Kush**! Below are a couple interesting things about me.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,discord,github,gmail,instagram,vscode,windows,bots,blender,html,replit," />
+    <img src="https://skillicons.dev/icons?i=apple,discord,github,kali,instagram,vscode,windows,bots,linux,html,raspberrypi," />
   </a>
 </p>
 
