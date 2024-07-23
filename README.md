@@ -52,8 +52,11 @@ Im **Kush**! Below are a couple interesting things about me.
 - ⚡ **Eletrical Engineering**
 - 🛡 **Security**
 
-
 ---
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&pause=1000&color=006AFF&center=true&width=435&lines=%22find+the+strength+within+yourself%22" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kushed3d&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
