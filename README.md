@@ -21,7 +21,7 @@ Im **Kush**! Below are a couple interesting things about me.
 
 - 💻 **Currently working on:** Models / CAD `(computer aided design)` 
 - 📚 **Currently learning:** Cybersecurity
-- 🔗 **Socials:** [Click Here](https://feds.lol/kushed)
+- 🔗 **Socials:** [Click Here](http://kushed3d.online/)
 - 🤔 **I’m looking for help/tips with:** Electrical Engineering
 -  ❔ **Ask me about:** CAD and 3D printing
 - 🐧 **kush@linux:~$** [whoami](https://www.google.com/search?q=intext%3Akushed3d)
