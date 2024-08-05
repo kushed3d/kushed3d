@@ -55,7 +55,7 @@ Im **Kush**! Below are a couple interesting things about me.
 ---
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lilita+One&pause=1000&color=006AFF&center=true&width=435&lines=%22find+the+strength+within+yourself%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=700&color=006AFF&center=true&vCenter=true&width=435&height=70&lines=+%22The+quieter+you+become%2C;the+more+you+are+able+to+hear%22" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
