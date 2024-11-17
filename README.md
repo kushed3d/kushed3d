@@ -13,16 +13,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 </p>
 
-## Soldering | CAD / Modeling | 3D-Printing | Payload Dev
+## Cybersec | CAD / Modeling | 3D-Printing | Comp Sci
 
  Hello there 👋
 
 Im **Kush**! Below are a couple interesting things about me.
 
 - 💻 **Currently working on:** Models / CAD `(computer aided design)` 
-- 📚 **Currently learning:** Cybersecurity
-- 🔗 **Socials:** [Click Here](http://kushed3d.online/)
-- 🤔 **I’m looking for help/tips with:** Electrical Engineering
+- 📚 **Currently learning:** Red Team Penetration Testing
 -  ❔ **Ask me about:** CAD and 3D printing
 - 🐧 **kush@linux:~$** [whoami](https://www.google.com/search?q=intext%3Akushed3d)
 
@@ -33,8 +31,7 @@ Im **Kush**! Below are a couple interesting things about me.
 ## Platforms and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,discord,github,kali,instagram,vscode,windows,bots,linux,html,raspberrypi," />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,cloudflare,vscode,html,css,js,lua," />
   </a>
 </p>
 
