@@ -25,12 +25,13 @@ Im **Kush**! Below are a couple interesting things about me.
 - 🐧 **kush@linux:~$** [whoami](https://www.google.com/search?q=intext%3Akushed3d)
 
 <p align="center">
-     <img src="https://share.creavite.co/66676ceddb2d31826fb8f38e.gif" width= "468" alt="Kushed3dd">
+     <img src="https://share.creavite.co/66676ceddb2d31826fb8f38e.gif" width= "468" alt="Kushed3d">
 </p>
 
 ## Platforms and Tools
 
 <p align="center">
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,cloudflare,vscode,html,css,js,lua," />
   </a>
 </p>
