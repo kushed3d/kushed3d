@@ -40,7 +40,6 @@ Im **Kush**! Below are a couple interesting things about me.
 
 -  ⌨️ **Bad Usb Scripts For Flipper Zero:** [View Here](https://github.com/kushed3d/Bad-USB-Flipper-Zero)
 -  🎨 **HackRF Splash Screens:** [View Here](https://github.com/kushed3d/HackRF-Splash-Screens)
--  🔗 **Github Website:** [View Here](https://github.com/kushed3d/kushed3d.github.io)
 -  🐝 **Bumblebee Discord Bot:** [View Here](https://github.com/kushed3d/Bumblebee)
 
 ### 👍 Interests 
