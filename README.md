@@ -28,7 +28,7 @@ Im **Kush**! Below are a couple interesting things about me.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,cloudflare,vscode,html,css,js,lua," />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,linux,kali,cloudflare,vscode,bash,py,html,css,js,lua" />
   </a>
 </p>
 
