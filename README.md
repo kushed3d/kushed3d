@@ -19,8 +19,8 @@
 
 Im **Kush**! Below are a couple interesting things about me.
 
-- 💻 **Currently working on:** Models / CAD `(computer aided design)` 
-- 📚 **Currently learning:** Red Team Penetration Testing
+- 💻 **Currently working on:** Tryhackme / Hack The Box
+- 📚 **Currently learning:** Penetration testing
 -  ❔ **Ask me about:** CAD and 3D printing
 - 🐧 **kush@linux:~$** [whoami](https://www.google.com/search?q=intext%3Akushed3d)
 
